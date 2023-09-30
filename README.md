@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Marzena and I am junior web developer.
+- 👋 Hi, I’m Marzena and I am Junior Web Developer.
 - 👀 I’m interested in coding, windsurfing and books!
 - 🌱 I’m currently learning JavaScrip.
 - 💞️ I’m looking to collaborate on projects I can develop my skills and be a helpful hand! 
